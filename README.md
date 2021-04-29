@@ -37,4 +37,5 @@
 
 [18- CompTIA A+ | Managing Files and Folders using Command Line ادارة الملفات باستخدام سطر الاوامر](https://www.youtube.com/watch?v=hcGn3zKwm98&list=PLH-n8YK76vIiDdOMRB-ylvns-_8Zl1euV&index=22)
 
-
+# Additional Resources
+[مقالات عن شهادة A+ ](https://academy.hsoub.com/certificates/comptia/)
