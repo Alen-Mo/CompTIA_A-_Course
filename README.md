@@ -1,9 +1,7 @@
 # CompTIA_A+_Course
 
-| Lectures |
-| ---- |
 
-| 1. [01- CompTIA A+ | Introduction to Hardware مقدمة فى الهاردوير](https://www.youtube.com/watch?v=HCdzduik1ZE&list=PLH-n8YK76vIiDdOMRB-ylvns-_8Zl1euV&index=3) |
+[01- CompTIA A+ | Introduction to Hardware مقدمة فى الهاردوير](https://www.youtube.com/watch?v=HCdzduik1ZE&list=PLH-n8YK76vIiDdOMRB-ylvns-_8Zl1euV&index=3)
 
 [02- CompTIA A+ | Form Factor شرح ال](https://www.youtube.com/watch?v=GQFeSgssCAo&list=PLH-n8YK76vIiDdOMRB-ylvns-_8Zl1euV&index=5)
 
